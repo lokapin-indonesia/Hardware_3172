@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "qst_qmi8610_3x3mm")(type "KiCad")(uri "${KIPRJMOD}/qst_qmi8610_3x3mm.kicad_sym")(options "")(descr ""))
+)

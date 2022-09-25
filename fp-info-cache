@@ -1,4 +1,4 @@
-19821651622952820
+19829971809377890
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56714,12 +56714,47 @@ Yellow 5381 Series LED
 2
 2
 LokapinLib
+5.2mm x 3.35mm Tactile Switch
+
+
+0
+4
+4
+LokapinLib
+MagneticBuzzer_8530_SMD
+magnetic transducer buzzer, 5V, SPL of 100 dB at 10 cm, https://www.cuidevices.com/product/resource/pdf/cmt-8504-100-smt-tr.pdf
+CMT 8504
+0
+4
+4
+LokapinLib
+QMC6308
+
+
+0
+4
+4
+LokapinLib
+QMI8658
+
+
+0
+14
+14
+LokapinLib
 RAK3172-SiP
 
 
 0
 73
 73
+LokapinLib
+XCVR_L80RE-M37
+
+
+0
+12
+12
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
