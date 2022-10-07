@@ -1,0 +1,18 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"532610271";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Molex";"";
+"NET_WEIGHT";"118.600/mg";"";
+"CURRENT_MAX";"1.0A";"";
+"TraceParts.InstanceId";"90-30012020-0578252N3XX9WWY2MK673V115V3T3RA";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Picoblade Connector, 2 Circuit Single Row, Right Angle Surface Mount SMT PCB";"";
+"CIRCUITS";"2";"";
+"TraceParts.PartTitle";"Picoblade Connector, 2 Circuit Single Row, Right Angle Surface Mount SMT PCB";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"VOLTAGE_MAX";"125V";"";
+"TraceParts.PartNumber";"90-30012020-057825";"";
+"TraceParts.PartStatusId";"";"";
+"ORIENTATION";"Right Angle";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.ClassPath";"MOLEX:90-30012020-057825";"";
