@@ -575,6 +575,11 @@
       (net 6 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 3ed0c8ee-f71e-453c-80f4-81229808306b))
     (pad "73" smd rect (at 2.8 2.8) (size 1.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "GND") (pinfunction "GND") (pintype "power_in") (tstamp c841fe01-1f38-4d16-a611-d0352cc30bad))
+    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/3Dmodel/RAK3172--3DModel-STEP-100311.STEP"
+      (offset (xyz 8 -7 1))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "Diode_SMD:D_SOD-523" (layer "F.Cu")
