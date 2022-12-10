@@ -177,13 +177,8 @@
     (property "Sheetname" "")
     (path "/08838af3-ea41-4c90-8526-85cb355fe062")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C19" (at 2.65 -0.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C19" (at 2.15 0 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp f2f2f21b-e130-4738-9490-06e9e2a1ad0c)
     )
     (fp_text value "4.7u" (at 0 1.16) (layer "F.Fab")
@@ -223,15 +218,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/aeb6e642-26dc-44ff-9f61-b40f95f8a2be")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP11" (at 0 -2.4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP11" (at 0.1 -1 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp daec1157-e4f8-438f-b054-c26d786831a7)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -256,15 +245,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/ba507489-da87-4f7b-8305-19458d928c03")
-<<<<<<< HEAD
-    (attr through_hole)
-    (fp_text reference "DEBUG1" (at 0.85 2.25 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "DEBUG1" (at 2.5 -3.4 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 029767b2-2fd2-4343-8e95-4bbc884c01b1)
     )
     (fp_text value "1.25mm 1x5" (at 2.5 2.4 90) (layer "F.Fab")
@@ -303,13 +286,8 @@
     (property "Sheetname" "")
     (path "/a88606f4-533c-4bcf-8d4b-251743abeac3")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C4" (at -0.1 7.05 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C4" (at 1.8 0.6 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 99c9a2b6-dcef-4810-b4d3-806bd0a9f132)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -350,13 +328,8 @@
     (property "Sheetname" "")
     (path "/7409b553-56c5-4abc-ba4d-ebc35079fcc1")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R18" (at -2.1 0) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R18" (at -2.1 0 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 722c39b7-533c-40a2-9c9c-f4faef2d9a18)
     )
     (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
@@ -395,13 +368,8 @@
     (property "Sheetname" "")
     (path "/dba48258-7c8b-4671-8551-ed33daab1944")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "U2" (at 1.45 -3.75 180 unlocked) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U2" (at -5.8 -7.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 0cd77f7d-d460-4f33-acea-ec52b8800920)
     )
     (fp_text value "RAK3172-SiP" (at 0.7 16.6 unlocked) (layer "F.Fab")
@@ -587,13 +555,8 @@
     (property "Sheetname" "")
     (path "/44a6928d-f604-43a8-b5e2-c7bb9a6f4d47")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "D3" (at -2 0 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "D3" (at -2.1 -0.1 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp eb914753-4ad8-44fc-93fd-14f530d0ab5b)
     )
     (fp_text value "BAS516" (at 0 1.4 90) (layer "F.Fab")
@@ -641,13 +604,8 @@
     (property "Sheetname" "")
     (path "/fad5bfb6-1655-4804-8e0b-2d34b1a87fd7")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R15" (at 2.55 -0.1 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R15" (at 2.25 -0.45 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 611e955c-eb06-453b-a41c-0ad763e643f0)
     )
     (fp_text value "10k" (at 0 1.17 90) (layer "F.Fab")
@@ -688,13 +646,8 @@
     (property "Sheetname" "")
     (path "/fd51e78f-7aa8-4ecf-ac54-284a367fb5aa")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C21" (at -0.1 -1.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C21" (at 0 -1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp f0d25b32-50ef-4d5b-8581-c3320e7eb023)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -735,13 +688,8 @@
     (property "Sheetname" "")
     (path "/76bcc3e8-3c35-44f2-9891-31802b691c71")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C13" (at 0.057836 -4.85 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C13" (at -0.2 4.65 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp b6f63f38-e4af-4c8c-bcf0-f212c2b09d58)
     )
     (fp_text value "470n" (at 0 1.16 90) (layer "F.Fab")
@@ -782,13 +730,8 @@
     (property "Sheetname" "")
     (path "/052c8934-9a4a-404e-8f60-fcb80a3244c0")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C30" (at -0.4 -2.15) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C30" (at -0.8 -3.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 3690f929-9354-43e6-b8fc-6ef4dd5be152)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -828,15 +771,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/89bfc9d4-719d-4cf5-b313-fc0d7ffbca0a")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP6" (at -2.125 0.2) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP6" (at 0.175 0.4 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 839030c4-e869-45c6-95cf-9e2a490f8454)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -862,13 +799,8 @@
     (property "Sheetname" "")
     (path "/3c310abf-7c5a-4e76-8a3f-55944fe6ab6e")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R17" (at 0.05 1.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R17" (at 2.05 0 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 2df48a86-22f1-44cb-9e6e-283f0b58062e)
     )
     (fp_text value "100k" (at 0 1.17) (layer "F.Fab")
@@ -909,13 +841,8 @@
     (property "Sheetname" "")
     (path "/5bdeab38-87af-4886-bbdc-7cc576377745")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R6" (at -0.107836 5.6 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R6" (at 0.1 -4.7 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 223c0125-58e7-4360-ac41-7d8e5e2f4a8d)
     )
     (fp_text value "1k" (at 0 1.17 90) (layer "F.Fab")
@@ -956,13 +883,8 @@
     (property "Sheetname" "")
     (path "/1c056cca-cb0c-40ce-a62d-518f6dc3bc29")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C11" (at 0.107836 -5.7 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C11" (at -0.5 4.5 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp dd94d98b-8847-4ce0-b30f-d31c6f77bc25)
     )
     (fp_text value "1u" (at 0 1.16 90) (layer "F.Fab")
@@ -1003,13 +925,8 @@
     (property "Sheetname" "")
     (path "/28adeab4-63c1-4736-84e7-503d8df871ef")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "D1" (at 0 -1.43 90) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text reference "D1" (at -2.4 0 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 76c4266a-f9c6-4bd7-89f3-6be8d95ded76)
     )
     (fp_text value "RED" (at 0 1.43 90) (layer "F.Fab")
@@ -1052,13 +969,8 @@
     (property "Sheetname" "")
     (path "/3909dd20-be62-4c98-b5fc-7dff7df90d68")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C7" (at -1.7 0 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C7" (at -3.5 -0.8 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 2b5f69d9-771c-4340-8f33-50333721d10a)
     )
     (fp_text value "1u" (at 0 1.16 90) (layer "F.Fab")
@@ -1099,13 +1011,8 @@
     (property "Sheetname" "")
     (path "/507d8167-039a-4518-a7aa-0762a8358fce")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "U4" (at -0.15 0.05) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U4" (at 1.5 -1.2 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 1c0e3b13-fd8d-4bae-8029-f091c72eefff)
     )
     (fp_text value "UHE4913" (at 0 2.4) (layer "F.Fab")
@@ -1151,13 +1058,8 @@
     (property "Sheetname" "")
     (path "/584ee320-ff20-4e46-9997-db9709d32097")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "U3" (at -0.1 3.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U3" (at -0.4 3.5 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 0cff9f4b-de24-4f7f-87cf-a99f632ba638)
     )
     (fp_text value "TP733xx" (at 0.11 -1.78) (layer "F.Fab")
@@ -1243,13 +1145,8 @@
     (property "Sheetname" "")
     (path "/dc54933e-fe9e-4eeb-8820-2c393bac629d")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R19" (at -0.01 1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R19" (at -0.11 1.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 3e011383-3f26-4a15-893a-918cbcbea0bb)
     )
     (fp_text value "100k" (at 0 1.17) (layer "F.Fab")
@@ -1290,13 +1187,8 @@
     (property "Sheetname" "")
     (path "/569085c7-02b1-47f8-9c84-d8a8964bf9a0")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R3" (at 0.107836 -5.7 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R3" (at -0.1 4.6 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 3d64d999-f7cc-4d15-91a5-9c30b54c80af)
     )
     (fp_text value "1k" (at 0 1.17 90) (layer "F.Fab")
@@ -1337,13 +1229,8 @@
     (property "Sheetname" "")
     (path "/17fd787c-f296-41df-9959-c878c7045d98")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R8" (at -1.75 0) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R8" (at 1.85 -0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 236ab820-0793-4e33-8900-41ec8e572a89)
     )
     (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
@@ -1384,13 +1271,8 @@
     (property "Sheetname" "")
     (path "/3d038245-52bb-4b95-96cf-a45896b9764f")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C22" (at 2.65 0.25) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C22" (at 2.15 -0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 3460571e-3fd0-4e24-9a84-67748f555478)
     )
     (fp_text value "1u" (at 0 1.16) (layer "F.Fab")
@@ -1431,13 +1313,8 @@
     (property "Sheetname" "")
     (path "/015c6fba-6821-45ac-8408-20457816b546")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R9" (at 1.75 0) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R9" (at -1.85 0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 71be5d8a-702c-40cc-abd1-b37313dcbe1b)
     )
     (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
@@ -1477,15 +1354,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/3843053f-6d1b-4467-978b-99ebdde707f0")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP8" (at -0.3 -1.4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP8" (at -0.4 -1.1 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 6c517970-1ff5-4619-b025-c790b0fdffcd)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -1511,13 +1382,8 @@
     (property "Sheetname" "")
     (path "/c7892727-2dce-487a-b97c-a996f16769d4")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R14" (at 4 0.15) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R14" (at 2.15 0.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp a56d8c2a-492d-492f-986e-3a417d141175)
     )
     (fp_text value "0R" (at 0 1.17) (layer "F.Fab")
@@ -1558,13 +1424,8 @@
     (property "Sheetname" "")
     (path "/1fa8c6c4-26b6-468b-917a-cb59c2e1cdee")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R12" (at 4 0.15) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R12" (at 2.15 0.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 4ed4cf71-f115-4ad7-a0f7-411778aefa68)
     )
     (fp_text value "0R" (at 0 1.17) (layer "F.Fab")
@@ -1602,13 +1463,8 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/787892b5-eb98-4f89-bb17-475d56cdd131")
-<<<<<<< HEAD
-    (fp_text reference "U5" (at 0 -3.5 unlocked) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U5" (at -0.2 -1.35 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp de5870de-f32c-4a6b-932a-728a45076be7)
     )
     (fp_text value "QMC6308" (at 0 1.86 unlocked) (layer "F.Fab")
@@ -1645,13 +1501,8 @@
     (property "Sheetname" "")
     (path "/04bb5b47-eb1c-4c53-8040-6071e03c7a67")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "BZ1" (at 6.1 -4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "BZ1" (at 5.1 0.45 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp ee15e223-69e4-4905-95b1-c459855e0e43)
     )
     (fp_text value "MLT-8530" (at 0.1 6) (layer "F.Fab")
@@ -1729,13 +1580,8 @@
     (property "Sheetname" "")
     (path "/20ce6f79-544f-4b4b-924c-d6a56432f98c")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C14" (at 0.007836 -4 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C14" (at -0.8 4.9 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 62157491-59bb-424a-85c1-b96722f5a433)
     )
     (fp_text value "4.7u" (at 0 1.16 90) (layer "F.Fab")
@@ -1767,80 +1613,6 @@
     )
   )
 
-<<<<<<< HEAD
-  (footprint "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal" (layer "F.Cu")
-    (tedit 5B783024) (tstamp 734f1017-c927-4f97-b6ca-5801b995b702)
-    (at 215 89 90)
-    (descr "Molex PicoBlade Connector System, 53048-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
-    (tags "connector Molex PicoBlade top entry")
-    (property "Sheetfile" "rak3172.kicad_sch")
-    (property "Sheetname" "")
-    (path "/296fadc0-2da8-4886-8880-b52a8b6707e0")
-    (attr through_hole)
-    (fp_text reference "BAT2" (at 0.75 2.25 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-      (tstamp 4b42b984-e83b-4b9e-8987-22342cecfc5f)
-    )
-    (fp_text value "1.25mm Push-Pull 1x2" (at 0.62 5.65 90) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b486760e-08f5-4f8a-9af1-8744d6864379)
-    )
-    (fp_text user "${REFERENCE}" (at 0.62 3.75 90) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4704b891-c04d-4df0-bc52-90a4e3fa9e48)
-    )
-    (fp_line (start -1.61 -1.16) (end -1.61 4.56) (layer "F.SilkS") (width 0.12) (tstamp 1451362a-1b5d-4478-a887-4ce617d6ccd0))
-    (fp_line (start -0.25 -1.15) (end -0.25 -1.45) (layer "F.SilkS") (width 0.12) (tstamp 44f456a0-2cfe-4042-af4e-b09114529232))
-    (fp_line (start 2.86 4.56) (end 0.625 4.56) (layer "F.SilkS") (width 0.12) (tstamp 467f624c-97ea-450a-8a29-84010edf11b2))
-    (fp_line (start -1.61 4.56) (end 0.625 4.56) (layer "F.SilkS") (width 0.12) (tstamp 523b6243-5463-47ad-83a9-5245ffb8946a))
-    (fp_line (start 1.79 -1.16) (end 2.86 -1.16) (layer "F.SilkS") (width 0.12) (tstamp 5743bd68-066c-4129-8da0-94f93bca9d18))
-    (fp_line (start 1.79 -0.86) (end 1.79 -1.16) (layer "F.SilkS") (width 0.12) (tstamp 912bde9c-b4de-47f4-8525-07630e4565ac))
-    (fp_line (start 0.625 -0.86) (end -0.54 -0.86) (layer "F.SilkS") (width 0.12) (tstamp 965e355b-f8c1-4e97-b3b9-6fbd570090fb))
-    (fp_line (start 2.86 -1.16) (end 2.86 4.56) (layer "F.SilkS") (width 0.12) (tstamp 99e8ed03-4fcf-4464-b2db-7cb91d153306))
-    (fp_line (start -0.54 -0.86) (end -0.54 -1.16) (layer "F.SilkS") (width 0.12) (tstamp 9d6d8339-3350-4111-b839-c7d08f32c5f8))
-    (fp_line (start 0.625 -0.86) (end 1.79 -0.86) (layer "F.SilkS") (width 0.12) (tstamp ab8fa022-f3b2-4e34-8ebf-12e4731aa823))
-    (fp_line (start -0.25 -1.45) (end -0.75 -1.45) (layer "F.SilkS") (width 0.12) (tstamp c7086f5c-b9eb-4883-8a02-39c6746e771b))
-    (fp_line (start -0.54 -1.16) (end -1.61 -1.16) (layer "F.SilkS") (width 0.12) (tstamp d87e1f72-8589-4a1b-8743-6299bd183b65))
-    (fp_line (start -2 4.95) (end 0.62 4.95) (layer "F.CrtYd") (width 0.05) (tstamp 0e6433e1-382e-47f4-a43c-51cf504b36d6))
-    (fp_line (start 3.25 -1.55) (end 3.25 4.95) (layer "F.CrtYd") (width 0.05) (tstamp 304e8740-b2a9-4dd1-a2dc-7d0366a5c42d))
-    (fp_line (start 1.4 -1.25) (end 1.4 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 4d5115cc-ad98-42bf-9bd3-314c7fd10e2b))
-    (fp_line (start 0.63 -1.25) (end 1.4 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp 5139589e-be95-43f3-9ea0-d2dcd653e8f6))
-    (fp_line (start 1.4 -1.55) (end 3.25 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 67d02b5c-f632-4fb5-882d-a5c5fc811082))
-    (fp_line (start -0.15 -1.55) (end -2 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 79e1d2d7-a4ec-4545-8d90-851a18eb6bcf))
-    (fp_line (start -0.15 -1.25) (end -0.15 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 9cc6ef83-a76e-4d2e-ab70-8571e48dacdc))
-    (fp_line (start -2 -1.55) (end -2 4.95) (layer "F.CrtYd") (width 0.05) (tstamp 9e99ca48-e471-44b4-a255-7b635011dfa9))
-    (fp_line (start 0.62 -1.25) (end -0.15 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp bc17adfc-5776-459a-bcea-0de97b38f97f))
-    (fp_line (start 3.25 4.95) (end 0.63 4.95) (layer "F.CrtYd") (width 0.05) (tstamp e4d7fd94-cfbc-4f26-b81e-483eae6ca895))
-    (fp_line (start -1.5 -1.05) (end -1.5 4.45) (layer "F.Fab") (width 0.1) (tstamp 08d2930d-0808-43a4-9265-ca897ca13ad2))
-    (fp_line (start 1.9 -1.05) (end 2.75 -1.05) (layer "F.Fab") (width 0.1) (tstamp 37794f6b-9984-4f0c-a258-3c12bf173e87))
-    (fp_line (start -0.65 -1.05) (end -1.5 -1.05) (layer "F.Fab") (width 0.1) (tstamp 6e238991-1d4a-4ba9-be9f-0c92d6eabd4c))
-    (fp_line (start -0.65 -0.75) (end -0.65 -1.05) (layer "F.Fab") (width 0.1) (tstamp 9cb125d7-d947-40de-a7d6-6243b2f70e6b))
-    (fp_line (start 2.75 4.45) (end 0.625 4.45) (layer "F.Fab") (width 0.1) (tstamp a3b3392e-1978-4877-90cf-0f282d1e78d7))
-    (fp_line (start 0 -0.042893) (end 0.5 -0.75) (layer "F.Fab") (width 0.1) (tstamp aa7bd3cb-8372-4b09-88c6-637d6ea6ed57))
-    (fp_line (start -1.5 4.45) (end 0.625 4.45) (layer "F.Fab") (width 0.1) (tstamp b1b543e8-1c94-4f66-b7d2-e04b678087a0))
-    (fp_line (start 0.625 -0.75) (end 1.9 -0.75) (layer "F.Fab") (width 0.1) (tstamp cbfa04fa-9db1-464e-9fe2-c72c82fcf6a9))
-    (fp_line (start 1.9 -0.75) (end 1.9 -1.05) (layer "F.Fab") (width 0.1) (tstamp d8eb63ef-577d-4c9f-b7f6-effbfabdb831))
-    (fp_line (start -0.5 -0.75) (end 0 -0.042893) (layer "F.Fab") (width 0.1) (tstamp da24104e-b23d-42c4-adcf-7a52acbdfe85))
-    (fp_line (start 2.75 -1.05) (end 2.75 4.45) (layer "F.Fab") (width 0.1) (tstamp dc1c28c6-7dcc-46b4-b1a4-fd631cfd2412))
-    (fp_line (start 0.625 -0.75) (end -0.65 -0.75) (layer "F.Fab") (width 0.1) (tstamp eac5ba16-ebb7-46ee-9961-147073d4b5cb))
-    (pad "1" thru_hole roundrect (at 0 0 90) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
-      (net 3 "-BATT") (pinfunction "Pin_1") (pintype "passive") (tstamp 28f5b647-e52f-4fff-a9d2-fd5e74a3c2ea))
-    (pad "2" thru_hole oval (at 1.25 0 90) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask)
-      (net 2 "+BATT") (pinfunction "Pin_2") (pintype "passive") (tstamp b7b9c37b-09d2-4590-b464-e2ba5a60c4c5))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/3Dmodel/JST_1.25_2pos.STEP"
-      (offset (xyz 0.5 -3.5 2))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 -180))
-    )
-  )
-
-=======
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
   (footprint "Inductor_SMD:L_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 74a74c9f-65d9-4907-ad5f-7fb6439cf2cc)
     (at 208.1 109.6)
@@ -1850,13 +1622,8 @@
     (property "Sheetname" "")
     (path "/7b1056c3-86ab-4440-8db0-003269c6bf19")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "L1" (at 0 1.8) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "L1" (at 0 1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp c2f621e7-ff74-4227-a750-8d32aaefd48a)
     )
     (fp_text value "L" (at 0 1.17) (layer "F.Fab")
@@ -1894,15 +1661,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/7e8d127e-4ba8-438c-bca1-c56176ebb19c")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP7" (at 2.1 0.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP7" (at 0.05 -0.3 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp c285c711-ad4d-4352-860e-e0a178640595)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -1927,15 +1688,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/e792f8e8-7aeb-4343-9ad3-72df8f18e67f")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP5" (at -0.6 -1.5) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP5" (at -7.8 1.2 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp eb89ce3f-46af-4141-b9a9-05392a7bb030)
     )
     (fp_text value "TestPoint_Alt" (at 0 1.55) (layer "F.Fab")
@@ -1961,13 +1716,8 @@
     (property "Sheetname" "")
     (path "/acabba0f-f1dc-4d75-bf94-878c3a678034")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C32" (at 3.25 0.85 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C32" (at 1.4 1.6 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 9171a2c4-e5ff-4b74-8558-c171809be827)
     )
     (fp_text value "47u" (at 0 1.75 90) (layer "F.Fab")
@@ -2009,15 +1759,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/740dece0-e560-46ff-848e-126e835f66fb")
-<<<<<<< HEAD
-    (attr smd)
-    (fp_text reference "R1" (at 0 -7.3 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "R1" (at -1.9 -0.7 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 22a10280-b162-498b-8f50-742923a46b9d)
     )
     (fp_text value "DNP" (at 0 1.17 90) (layer "F.Fab")
@@ -2058,13 +1802,8 @@
     (property "Sheetname" "")
     (path "/01f46e67-71e4-4165-9fa5-f6538088bdbb")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C12" (at 3.7 0.1 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C12" (at 3.9 0.2 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp dd0c5ef6-d471-457c-bc54-7b397b201241)
     )
     (fp_text value "4.7u" (at 0 1.16 90) (layer "F.Fab")
@@ -2105,13 +1844,8 @@
     (property "Sheetname" "")
     (path "/91582240-4bd0-46ea-9851-fc59e146c1a1")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R4" (at 0.1 -8.8 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R4" (at -1.8 1.2 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 75ae9815-561e-46ab-9fdf-6eb13a05fb12)
     )
     (fp_text value "100k" (at 0 1.17 90) (layer "F.Fab")
@@ -2152,13 +1886,8 @@
     (property "Sheetname" "")
     (path "/12cc0cbe-7abd-4d48-80d4-6c461701bfbb")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C33" (at 0 2.25) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C33" (at 0.6 3.15 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 48d5e6f7-4e50-4e7d-8b77-2f6c2d801b60)
     )
     (fp_text value "1u" (at 0 1.16) (layer "F.Fab")
@@ -2198,15 +1927,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/de6d46fa-4b6b-42bd-84dd-18f17aa65d72")
-<<<<<<< HEAD
-    (attr smd)
-    (fp_text reference "R7" (at 1.95 0.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "R7" (at 0 1.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 4b134ca8-8963-4dae-9208-bbed3e241058)
     )
     (fp_text value "DNP" (at 0 1.17) (layer "F.Fab")
@@ -2247,13 +1970,8 @@
     (property "Sheetname" "")
     (path "/ce55497f-6148-44a5-bc6e-70161bd9e99f")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "U1" (at -6.6 -1.05) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U1" (at 1.2 -3.5 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 92cb044d-0d05-4bb8-9560-1ba1b1cb2197)
     )
     (fp_text value "AP6683" (at 0.11 -1.78) (layer "F.Fab")
@@ -2339,13 +2057,8 @@
     (property "Sheetname" "")
     (path "/f9d646d1-153c-45e9-bb4c-f5f9da597c2c")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C17" (at -0.1 4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C17" (at -0.5 4 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp e92b98ed-f328-41ef-b487-3af308a09e3e)
     )
     (fp_text value "47u" (at 0 1.75) (layer "F.Fab")
@@ -2388,13 +2101,8 @@
     (property "Sheetname" "")
     (path "/1dbd216f-32d5-4255-bcd9-7b6843f60f03")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "L2" (at 0.292164 4.45 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "L2" (at -2.4 0.05 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 84ff3318-8fe4-40c7-9e81-fdf05be9e3b0)
     )
     (fp_text value "15u" (at 0 1.55 90) (layer "F.Fab")
@@ -2434,15 +2142,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/eaaa05b1-2301-46fc-93e7-87e1b1e06eca")
-<<<<<<< HEAD
-    (attr smd)
-    (fp_text reference "R10" (at 2.15 0) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "R10" (at -2.25 0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 0915a923-ed3d-4139-8c37-11f2b770cc90)
     )
     (fp_text value "DNP" (at 0 1.17) (layer "F.Fab")
@@ -2483,13 +2185,8 @@
     (property "Sheetname" "")
     (path "/851ee7d0-f962-442c-8979-d6f03220f83c")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C24" (at 2.87 -0.5) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C24" (at 2.27 -0.45 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 2333adec-ead7-4e2b-8fee-df28bec178e5)
     )
     (fp_text value "4.7u" (at 0 1.16) (layer "F.Fab")
@@ -2530,13 +2227,8 @@
     (property "Sheetname" "")
     (path "/ff95e217-cbe4-4020-977b-346883bd182b")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R13" (at 4 0.15) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R13" (at 2.15 0 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 2949ee55-a638-4c04-9241-e02da064a2a3)
     )
     (fp_text value "0R" (at 0 1.17) (layer "F.Fab")
@@ -2577,13 +2269,8 @@
     (property "Sheetname" "")
     (path "/99495766-53c7-4f15-90ea-bfb6bca1784c")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R5" (at 0.15 -1.05) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R5" (at 0 -1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp c938672c-3027-4d2a-a460-122caffee9cd)
     )
     (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
@@ -2624,13 +2311,8 @@
     (property "Sheetname" "")
     (path "/045b3d25-824a-4bcd-82de-6300025720e4")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C6" (at 0 5.3 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C6" (at 1.8 -1.1 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 341c139b-89f6-4b40-837f-e01e8a8071a4)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -2671,13 +2353,8 @@
     (property "Sheetname" "")
     (path "/bf4d6714-2af6-42ec-97af-a3ba84232501")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "Q2" (at 0.3 -0.35) (layer "F.SilkS") hide
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "Q2" (at 1.8 -1.3 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 0c352c49-8362-44e0-b8a9-855510ef575d)
     )
     (fp_text value "SI2302" (at 0 2.4) (layer "F.Fab")
@@ -2722,15 +2399,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/c745e703-2e64-4a5b-8717-e0b1bf277052")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP10" (at 0.1 -1.4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP10" (at -0.2 0 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp ebb3e73c-c17a-4098-83d6-da8e3691b412)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -2756,13 +2427,8 @@
     (property "Sheetname" "")
     (path "/50f4fbe7-0219-4f34-866a-afc2abb650fc")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C26" (at 2.55 0 90 unlocked) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C26" (at 2.25 -0.35 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 9c297e70-dbdf-4b74-8997-327837a689f5)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -2803,13 +2469,8 @@
     (property "Sheetname" "")
     (path "/b65d78b3-0342-4dc3-9254-0a4eacdda406")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C10" (at 0.007836 -4.1 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C10" (at -0.8 4.8 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp f5776bce-e1eb-4cb4-b464-ff8885c8550b)
     )
     (fp_text value "1u" (at 0 1.16 90) (layer "F.Fab")
@@ -2849,15 +2510,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/b9a848e5-dd67-4e2b-8b5e-83eba6aba0b1")
-<<<<<<< HEAD
-    (attr smd)
-    (fp_text reference "C2" (at 1.9 -0.15 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "C2" (at 1.7 0 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 4b0043c4-5ce2-4ad7-b853-51c8f1c5a0e0)
     )
     (fp_text value "C" (at 0 1.16 90) (layer "F.Fab")
@@ -2897,15 +2552,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/9640f7ca-4eb4-478e-820e-0d8c2665103b")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP9" (at 0.05 -1.4) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP9" (at 0.5 0.1 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 2c2ace5e-8d91-4f1f-96fc-23070aa4784d)
     )
     (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
@@ -2931,13 +2580,8 @@
     (property "Sheetname" "")
     (path "/a9a06c49-8e16-4f20-adce-e2b8c78f2ac3")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C31" (at 0 2.15) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C31" (at 0.4 3.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 8ce146f3-4b49-4214-a8d5-1040d666d4f9)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -2978,13 +2622,8 @@
     (property "Sheetname" "")
     (path "/42f08dd8-017a-40d5-8ea4-8b8abc45442d")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "ANT2" (at 0.475 -3.2) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text reference "ANT2" (at 0.5 2.7 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 82e7b085-623f-4fe3-9dc1-741eacca0616)
     )
     (fp_text value "U.FL" (at 0.475 3.2) (layer "F.Fab") hide
@@ -3054,13 +2693,8 @@
     (property "Sheetname" "")
     (path "/322a03c8-816f-4a84-9f2f-5a96666f13ef")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C9" (at 0.107836 -5.95 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C9" (at -0.1 4.4 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 26dbbd39-f648-4404-ad67-088160d659d6)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -3101,13 +2735,8 @@
     (property "Sheetname" "")
     (path "/bc6ab83a-00df-48d0-953c-eb8f0da68187")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C23" (at 2.85 -0.5) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C23" (at 2.25 -0.35 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp f6d3734f-f3ae-47ca-9988-e728219f2f3d)
     )
     (fp_text value "1u" (at 0 1.16) (layer "F.Fab")
@@ -3148,13 +2777,8 @@
     (property "Sheetname" "")
     (path "/a8f33cd5-2f9d-4f1a-bc6b-58b7e6edd94d")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "Q1" (at 0 -2.4 90) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text reference "Q1" (at -2.2 0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp e7c6388f-2b44-4a8c-8d29-c0c474e5ace4)
     )
     (fp_text value "AO3401" (at 0 2.4 90) (layer "F.Fab") hide
@@ -3199,15 +2823,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/fb6695e3-faf7-45c9-8754-e789e85537da")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP2" (at -1.8 -1.2) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP2" (at 0 0 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 84b14fb8-ff54-43e0-ae12-49ee5b00e8c0)
     )
     (fp_text value "TestPoint_Alt" (at 0 1.55) (layer "F.Fab")
@@ -3233,13 +2851,8 @@
     (property "Sheetname" "")
     (path "/a8415d85-d1c4-4ca6-969b-53647f2a04cf")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "D2" (at 0 -1.43 90) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text reference "D2" (at 0.15 4.7 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 58df3fad-010e-47bd-a24a-7508ce037ad2)
     )
     (fp_text value "GREEN" (at 0 1.43 90) (layer "F.Fab")
@@ -3273,80 +2886,6 @@
     )
   )
 
-<<<<<<< HEAD
-  (footprint "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal" (layer "F.Cu")
-    (tedit 5B783024) (tstamp d65fbc55-2a7e-496a-8cef-728723e3cee9)
-    (at 185 88 -90)
-    (descr "Molex PicoBlade Connector System, 53048-0210, 2 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
-    (tags "connector Molex PicoBlade top entry")
-    (property "Sheetfile" "rak3172.kicad_sch")
-    (property "Sheetname" "")
-    (path "/87d19926-fddc-44cc-8f1c-eabeb5918bbf")
-    (attr through_hole)
-    (fp_text reference "BAT1" (at -2.25 2.75 180) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-      (tstamp 8001a0f2-321f-4f5e-bb26-2e3a630100ae)
-    )
-    (fp_text value "1.25mm Push-Pull 1x2" (at 0.62 5.65 90) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3b2d820c-5738-400a-b59f-e4086bdf369f)
-    )
-    (fp_text user "${REFERENCE}" (at 0.62 3.75 90) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b43a5184-d362-471b-8673-3ef6e97db824)
-    )
-    (fp_line (start -1.61 -1.16) (end -1.61 4.56) (layer "F.SilkS") (width 0.12) (tstamp 0b816b1c-5512-4924-9e12-75acf56b7b4f))
-    (fp_line (start -0.25 -1.45) (end -0.75 -1.45) (layer "F.SilkS") (width 0.12) (tstamp 2cbc89d3-d8c5-4887-bee5-5213cbb1ebb2))
-    (fp_line (start 2.86 4.56) (end 0.625 4.56) (layer "F.SilkS") (width 0.12) (tstamp 36dfbbd2-2609-4500-a559-82cd4b0104c4))
-    (fp_line (start 0.625 -0.86) (end -0.54 -0.86) (layer "F.SilkS") (width 0.12) (tstamp 406d85d7-85c7-4eed-a026-193948128f9b))
-    (fp_line (start -1.61 4.56) (end 0.625 4.56) (layer "F.SilkS") (width 0.12) (tstamp 5410104d-7863-4fb6-be6f-52e2989a393a))
-    (fp_line (start 1.79 -0.86) (end 1.79 -1.16) (layer "F.SilkS") (width 0.12) (tstamp 5f5860f4-87fb-42d7-81db-ba032a1d48b5))
-    (fp_line (start -0.25 -1.15) (end -0.25 -1.45) (layer "F.SilkS") (width 0.12) (tstamp 9c47579c-a43d-407e-ae12-24e7893bb299))
-    (fp_line (start -0.54 -1.16) (end -1.61 -1.16) (layer "F.SilkS") (width 0.12) (tstamp a0b028d9-1939-420e-9963-0533294aa39b))
-    (fp_line (start 0.625 -0.86) (end 1.79 -0.86) (layer "F.SilkS") (width 0.12) (tstamp a721a1a6-be33-49d0-bf23-674d94aedba1))
-    (fp_line (start 2.86 -1.16) (end 2.86 4.56) (layer "F.SilkS") (width 0.12) (tstamp cd573521-8995-4d0d-946f-4f47fb413e8a))
-    (fp_line (start -0.54 -0.86) (end -0.54 -1.16) (layer "F.SilkS") (width 0.12) (tstamp dca8cdb9-cb88-4b82-952f-47a8ccd40ea8))
-    (fp_line (start 1.79 -1.16) (end 2.86 -1.16) (layer "F.SilkS") (width 0.12) (tstamp e563ef63-0bf7-4016-a172-adf114e28f31))
-    (fp_line (start -0.15 -1.25) (end -0.15 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 047b5fc8-ad57-4923-8b78-a40b0d7ffa84))
-    (fp_line (start -2 -1.55) (end -2 4.95) (layer "F.CrtYd") (width 0.05) (tstamp 1aa7a535-d6a4-4e23-a47c-ea8c7fb78147))
-    (fp_line (start 1.4 -1.55) (end 3.25 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 30508594-c6b7-4560-96ac-05f6655ba783))
-    (fp_line (start 1.4 -1.25) (end 1.4 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp 4bcae3dd-5485-4b31-99d2-abfe18d8f3df))
-    (fp_line (start 3.25 4.95) (end 0.63 4.95) (layer "F.CrtYd") (width 0.05) (tstamp 7c13ed6e-7526-4915-9291-8195f027ff58))
-    (fp_line (start -2 4.95) (end 0.62 4.95) (layer "F.CrtYd") (width 0.05) (tstamp c87e2a1d-0b8d-4c0d-80f3-7cfe179f527b))
-    (fp_line (start 3.25 -1.55) (end 3.25 4.95) (layer "F.CrtYd") (width 0.05) (tstamp e8ce0d43-f3a4-442a-830b-4bbd90cbb70e))
-    (fp_line (start 0.63 -1.25) (end 1.4 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp e9212758-5eac-4eb5-9467-afbee596a406))
-    (fp_line (start -0.15 -1.55) (end -2 -1.55) (layer "F.CrtYd") (width 0.05) (tstamp ea332be6-8c61-4270-a7c1-7123e909e17e))
-    (fp_line (start 0.62 -1.25) (end -0.15 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp f63222ce-2c6a-4b60-b441-317ee030bf06))
-    (fp_line (start 0.625 -0.75) (end 1.9 -0.75) (layer "F.Fab") (width 0.1) (tstamp 2fe0d1a7-1e3f-4a63-9b77-a63b8efa2b5f))
-    (fp_line (start 0 -0.042893) (end 0.5 -0.75) (layer "F.Fab") (width 0.1) (tstamp 3a9a5f1b-05d2-4421-a7ce-7632680b9874))
-    (fp_line (start 1.9 -0.75) (end 1.9 -1.05) (layer "F.Fab") (width 0.1) (tstamp 3daae412-49b5-452c-9c72-ac1ee1af7506))
-    (fp_line (start 2.75 -1.05) (end 2.75 4.45) (layer "F.Fab") (width 0.1) (tstamp 44ae4cf6-43be-498f-898c-1faa0b88b452))
-    (fp_line (start -1.5 -1.05) (end -1.5 4.45) (layer "F.Fab") (width 0.1) (tstamp 47e3616e-9142-4816-b15e-ecb20539f953))
-    (fp_line (start 2.75 4.45) (end 0.625 4.45) (layer "F.Fab") (width 0.1) (tstamp 5077bffa-b3ad-460d-a47b-08e1e2c5bae9))
-    (fp_line (start -1.5 4.45) (end 0.625 4.45) (layer "F.Fab") (width 0.1) (tstamp 674118c1-e3df-4124-9d52-7a51d8b6efc4))
-    (fp_line (start -0.65 -0.75) (end -0.65 -1.05) (layer "F.Fab") (width 0.1) (tstamp 699247c9-6d37-4abb-b571-81f2c64e6d2d))
-    (fp_line (start 1.9 -1.05) (end 2.75 -1.05) (layer "F.Fab") (width 0.1) (tstamp 72200db3-0111-4cf1-9b99-2c2926a64ecc))
-    (fp_line (start -0.65 -1.05) (end -1.5 -1.05) (layer "F.Fab") (width 0.1) (tstamp 7dd0f1be-e8eb-4721-af7c-da045b66b000))
-    (fp_line (start 0.625 -0.75) (end -0.65 -0.75) (layer "F.Fab") (width 0.1) (tstamp daa8a781-4e90-40c4-8702-e6069932e551))
-    (fp_line (start -0.5 -0.75) (end 0 -0.042893) (layer "F.Fab") (width 0.1) (tstamp db27bf9d-d813-4225-97b0-63143727d7c9))
-    (pad "1" thru_hole roundrect (at 0 0 270) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
-      (net 2 "+BATT") (pinfunction "Pin_1") (pintype "passive") (tstamp ae7a0376-1424-4b85-86a5-5b9e1bb271ff))
-    (pad "2" thru_hole oval (at 1.25 0 270) (size 0.8 1.3) (drill 0.5) (layers *.Cu *.Mask)
-      (net 3 "-BATT") (pinfunction "Pin_2") (pintype "passive") (tstamp 46626ead-0ff1-46b7-9929-3e3534b47ff5))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/3Dmodel/JST_1.25_2pos.STEP"
-      (offset (xyz 0.5 -3.5 2))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 -180))
-    )
-  )
-
-=======
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp dd2e21dd-d69c-4de5-9ef2-ca3868309c36)
     (at 184.3 91.9)
@@ -3356,13 +2895,8 @@
     (property "Sheetname" "")
     (path "/ad2a558a-0d76-4481-9420-d634e69c8eeb")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C3" (at 0 -1.6) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C3" (at 1.2 -3.3 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 13ed77be-b3ff-4777-b5f4-afabaec7431c)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -3403,13 +2937,8 @@
     (property "Sheetname" "")
     (path "/8fbc2456-863a-46ed-a8d8-1331a5cd5ae2")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C8" (at 0.007836 -4.35 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C8" (at -0.4 4.7 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 96ec64e7-b1f6-467e-abfe-59f52f73d590)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -3448,13 +2977,8 @@
     (property "Sheetname" "")
     (path "/daf07705-e1c4-495b-a0f6-3a78ffc559fb")
     (attr through_hole)
-<<<<<<< HEAD
-    (fp_text reference "U7" (at 0 -0.05) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "U7" (at 0.9 4.15 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp b36baf84-1cea-4352-ad02-0db2036436d2)
     )
     (fp_text value "QMI8658" (at 10.487055 2.390475) (layer "F.Fab")
@@ -3521,13 +3045,8 @@
     (property "Sheetname" "")
     (path "/48feed6f-33f3-41f2-9e92-b4efd8c144f6")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "SW2" (at -0.05 -3.35 180 unlocked) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "SW2" (at 0 -2.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp f2a0e8c1-d354-4dfd-97a2-d73c3c803ac1)
     )
     (fp_text value "SW_Push" (at 0.964768 -4.175 180 unlocked) (layer "F.Fab")
@@ -3556,11 +3075,7 @@
     (pad "3" smd roundrect (at -2.035232 0.975 180) (size 1.25 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 5 "BOOT0") (pinfunction "3") (pintype "passive") (tstamp fac62871-f880-479a-8a58-65b22a1fceb1))
     (pad "4" smd roundrect (at 2.314768 0.975 180) (size 1.25 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d0063010-7201-4d2a-bac5-787556103f06))
-<<<<<<< HEAD
-    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/3Dmodel/k2-1808sn-a4sw-miniature-tactile-switch-1.snapshot.3/tact_switch_K2-1808SN-A4SW.STEP"
-=======
     (model "${KIPRJMOD}/3Dmodel/k2-1808sn-a4sw-miniature-tactile-switch-1.snapshot.3/tact_switch_K2-1808SN-A4SW.STEP"
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3576,13 +3091,8 @@
     (property "Sheetname" "")
     (path "/6940a39b-c884-449d-b6dc-d27685c65377")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C20" (at 2.65 0.25) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C20" (at 2.15 0.05 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 986a5180-1dbc-419e-a328-5470fe737af8)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -3622,15 +3132,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/d6c3538e-1384-48a9-9dd3-0c884de25ff0")
-<<<<<<< HEAD
-    (attr smd)
-    (fp_text reference "C1" (at 1.9 0.2 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "C1" (at 1.7 0 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 7528c3ef-1466-481c-8490-4d8c1284a334)
     )
     (fp_text value "C" (at 0 1.16 90) (layer "F.Fab")
@@ -3671,13 +3175,8 @@
     (property "Sheetname" "")
     (path "/5a7aedb0-7f8f-4f69-9f3e-ab5efc01dedb")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R16" (at 0 -1.2 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R16" (at 0 -1.1 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp e4128bb2-02ce-4a19-a9b4-27c5486dbdc0)
     )
     (fp_text value "1k" (at 0 1.17 90) (layer "F.Fab")
@@ -3718,13 +3217,8 @@
     (property "Sheetname" "")
     (path "/5eed6b0b-87e0-4ba6-b4d3-1a0ad9fa783b")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R2" (at 0 5.55 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R2" (at 1.8 -1.1 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp e54538d4-293e-4a03-bc22-7aa9346c5107)
     )
     (fp_text value "100k" (at 0 1.17 90) (layer "F.Fab")
@@ -3763,13 +3257,8 @@
     (property "Sheetname" "")
     (path "/468f511a-6fd2-4337-bf6f-b75ae91b6aef")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "SW1" (at -0.05 -6.025 180 unlocked) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "SW1" (at 0 -1.975 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp b2dc811b-2b00-4751-989f-8b074572df38)
     )
     (fp_text value "SW_Push" (at 0.964768 -4.175 180 unlocked) (layer "F.Fab")
@@ -3798,11 +3287,7 @@
     (pad "3" smd roundrect (at -2.035232 0.975 180) (size 1.25 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 8 "NRST") (pinfunction "3") (pintype "passive") (tstamp 4c1a79f0-6b5d-45e4-8e71-196f0d87c8d2))
     (pad "4" smd roundrect (at 2.314768 0.975 180) (size 1.25 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b70e6905-3e7f-42b5-b603-6801221c199d))
-<<<<<<< HEAD
-    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/3Dmodel/k2-1808sn-a4sw-miniature-tactile-switch-1.snapshot.3/tact_switch_K2-1808SN-A4SW.STEP"
-=======
     (model "${KIPRJMOD}/3Dmodel/k2-1808sn-a4sw-miniature-tactile-switch-1.snapshot.3/tact_switch_K2-1808SN-A4SW.STEP"
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3817,15 +3302,9 @@
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/631719ca-57c0-4d4b-a7a2-cb3b51262bde")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "TP1" (at 2 0.9) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP1" (at 0.1 0 unlocked) (layer "User.1")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 08415e81-341a-4b15-9a4f-d8b53b44eefd)
     )
     (fp_text value "TestPoint_Alt" (at 0 1.55) (layer "F.Fab")
@@ -3851,13 +3330,8 @@
     (property "Sheetname" "")
     (path "/5301d078-34c3-4d91-b972-d4ce7f576e3b")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C5" (at -1.7 0 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C5" (at -3.4 -1.5 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 52101c5f-8443-4303-bf5c-ab8d0ac553b3)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -3898,13 +3372,8 @@
     (property "Sheetname" "")
     (path "/506c98b9-586f-4180-9136-68226022c2ca")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C16" (at 0.007836 -4.85 90) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C16" (at -0.2 4.65 90 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp df551e45-eaed-424c-ad25-05b8588e0435)
     )
     (fp_text value "100n" (at 0 1.16 90) (layer "F.Fab")
@@ -3945,13 +3414,8 @@
     (property "Sheetname" "")
     (path "/1541c0ca-78de-4838-999f-69024b83afc4")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "R11" (at 0.3 0.95) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "R11" (at -1.9 -0.15 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp c97f1974-2a69-4b67-ade1-d1e6b64b2ee5)
     )
     (fp_text value "10k" (at 0 1.17) (layer "F.Fab")
@@ -3992,13 +3456,8 @@
     (property "Sheetname" "")
     (path "/5b2156c5-c9da-4da3-9561-6aaa8b6efae0")
     (attr smd)
-<<<<<<< HEAD
-    (fp_text reference "C18" (at 2.65 -0.1) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.15)))
-=======
     (fp_text reference "C18" (at 2.15 0.1 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp 409f630b-961b-44cb-8479-55fe6fd1a982)
     )
     (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
@@ -4031,39 +3490,23 @@
   )
 
   (footprint "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm" (layer "F.Cu")
-<<<<<<< HEAD
-    (tedit 5A0F774F) (tstamp fea712ce-8a4c-45e4-a137-d4e28236cccc)
-    (at 217.75 109.75)
-=======
     (tedit 633EA99E) (tstamp fea712ce-8a4c-45e4-a137-d4e28236cccc)
     (at 217.4 109.6)
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
     (property "Sheetfile" "rak3172.kicad_sch")
     (property "Sheetname" "")
     (path "/ddd80593-8f9b-41cc-b3d7-30c4a930f721")
-<<<<<<< HEAD
-    (attr exclude_from_pos_files)
-    (fp_text reference "ANT1" (at 0 -1.998) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text reference "ANT1" (at 0.1 2 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp a86e114e-d6ff-43e3-b6ae-910ea32f6fd4)
     )
     (fp_text value "915MHz" (at 0 2.05) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9a72e10b-191a-4fb1-a40f-b2297f01e083)
     )
-<<<<<<< HEAD
-    (fp_text user "${REFERENCE}" (at 0 -2) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-=======
     (fp_text user "${REFERENCE}" (at 0 -2 unlocked) (layer "F.Fab")
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (tstamp d8e3e689-c509-4bd8-b960-1bb37ee4f3bd)
     )
     (fp_line (start 0 -1.2) (end 0 -1.95) (layer "F.SilkS") (width 0.12) (tstamp dab0e2fd-b4f6-44ed-aad2-17c4e2b96060))
@@ -6407,15 +5850,9 @@
     (pad "11" smd oval (at 7.75 3.81) (size 2.5 1) (layers "B.Cu" "B.Mask")
       (net 59 "unconnected-(U6-Pad11)") (pinfunction "EX_ANT") (pintype "input+no_connect") (tstamp 48c64b3b-14ad-459a-b6c0-d12b41ceafd2))
     (pad "12" smd oval (at 7.75 6.35) (size 2.5 1) (layers "B.Cu" "B.Mask")
-<<<<<<< HEAD
-      (net 6 "GND") (pinfunction "GND") (pintype "power_in") (tstamp baf3cef8-a261-47c1-a6eb-db3c786b5967))
-    (model "C:/Users/samsu/Documents/KiCad/Project/Lokapin_Petrack/L80RE-M37.step"
-      (offset (xyz 0 0.5 0))
-=======
       (net 6 "GND") (pinfunction "GND") (pintype "power_in") (tstamp d9901946-e60b-47af-b2fe-7b1189b31c73))
     (model "${KIPRJMOD}/3Dmodel/L80RE-M37.step"
       (offset (xyz 0 0 0))
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
@@ -6450,12 +5887,6 @@
   (gr_circle (center 182.85 112.15) (end 184.2 112.15) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ecdb8cd6-1099-41b5-bfa5-9e65a9b51d2c))
   (gr_arc (start 220 114) (mid 219.707107 114.707107) (end 219 115) (layer "Edge.Cuts") (width 0.1) (tstamp edb667e2-1731-4a18-b2e5-d6e82210356d))
   (gr_line (start 181 115) (end 219 115) (layer "Edge.Cuts") (width 0.1) (tstamp f44413c2-8190-4b54-b9ee-8b1f5920bf81))
-<<<<<<< HEAD
-  (gr_text "L1" (at 212 113.4) (layer "F.SilkS") (tstamp 74b5b296-9fe7-44d8-86e8-7daabc6561b1)
-    (effects (font (size 0.8128 0.8128) (thickness 0.15)))
-  )
-=======
->>>>>>> fff5f97c7ff9a2a93b979abe1d95a6d2fbf5a204
 
   (segment (start 212.45 109.6) (end 217.8 109.6) (width 0.38) (layer "F.Cu") (net 1) (tstamp 60790953-fd08-4dbd-8f73-cf5178512145))
   (segment (start 209.6 109.62) (end 212.43 109.62) (width 0.38) (layer "F.Cu") (net 1) (tstamp 6377dc3d-4918-4e47-bffa-7ba597ba64ca))
